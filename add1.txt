@@ -1,0 +1,4 @@
+The number of hours in a day is 24
+2147731992
+Today is Sunday
+The month is January
